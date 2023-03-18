@@ -41,7 +41,7 @@ export function Navigation(props) {
         <TopLevelNavItem
           href="#"
         >
-          Hello. I'm CraveChef, your personal AI chef to generate a wide variety of recipes which you can make with only using ingredients which you have! {'\n'}
+          Hello. I&apos;'m CraveChef, your personal AI chef to generate a wide variety of recipes which you can make with only using ingredients which you have! {'\n'}
         </TopLevelNavItem>
       </ul>
        <ul role="list">
